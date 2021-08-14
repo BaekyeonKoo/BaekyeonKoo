@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BaekyeonKoo
-- 👀 I’m interested in learning new languages; Java,
+- 👀 I’m interested in learning new languages.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
