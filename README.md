@@ -1,7 +1,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Baekyeon Koo&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=170&section=header&text=Baekyeon Koo&fontSize=50" />
 
 <div>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
