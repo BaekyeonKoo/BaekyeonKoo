@@ -1,7 +1,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Baekyeon Koor&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Baekyeon Koo&fontSize=70" />
 
 <div>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -30,9 +30,8 @@
 
 <div>
     <img 
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    <img 
-        src="https://img.shields.io/github/followers/AlpoxDev?label=AlpoxDev%20Followers&style=social"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%baekyeon9"
+        style="height : auto; margin-left : 180px; margin-right : 10px;"/>
 </div>
+
+<br>
