@@ -1,16 +1,9 @@
-<!---- - 👋 Hi, I’m @BaekyeonKoo
- 👀 I’m interested in learning new languages.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...--->
 
-<!---
-BaekyeonKoo/BaekyeonKoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Baekyeon Koo&fontSize=70" />
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Baekyeon Koor&fontSize=70" />
+
+<div>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -31,8 +24,15 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=auto"/>
 
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/> <br>
- 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaekyeon9&count_bg=%2327DCC3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>
 
-  <br>
+</div>
+
+<div>
+    <img 
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img 
+        src="https://img.shields.io/github/followers/AlpoxDev?label=AlpoxDev%20Followers&style=social"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</div>
