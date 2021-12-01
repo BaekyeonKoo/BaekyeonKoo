@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BaekyeonKoo
-<!---- 👀 I’m interested in learning new languages.
+<!---- - 👋 Hi, I’m @BaekyeonKoo
+ 👀 I’m interested in learning new languages.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
@@ -9,7 +9,7 @@ BaekyeonKoo/BaekyeonKoo is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Baekyeon Koo&fontSize=70" />
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
